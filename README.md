@@ -5,7 +5,9 @@ Bringing over 10 years of commercial experience, I am deeply passionate about bo
 ### ✉️ Contact with me
 
 [![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maciejlotysz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ssynowiecpl/](https://www.linkedin.com/in/maciejlotysz/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciejlotysz/)
+
+
 
 <br>
 
