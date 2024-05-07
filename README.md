@@ -8,8 +8,17 @@ Bringing over 10 years of commercial experience, I am deeply passionate about bo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciejlotysz/)
 
 
+<br>
+
+
+### 🧩 Frameworks and libraries that I use
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![VUE JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+
 
 <br>
+
 
 ### 💻 My tech stack:
 
@@ -32,11 +41,6 @@ Bringing over 10 years of commercial experience, I am deeply passionate about bo
 
 ![Github chart](https://github-readme-stats.vercel.app/api/top-langs/?username=lotyszm&layout=compact&theme=dark)
 
-<br>
-
-### 🧩 Frameworks and libraries that I use
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 <br>
 
