@@ -42,7 +42,7 @@ Bringing over 10 years of commercial experience, I am deeply passionate about bo
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Github chart](https://github-readme-stats.vercel.app/api/top-langs/?username=lotyszm&layout=compact&theme=dark)
+![Github chart](https://github-readme-stats-num.vercel.app/api/top-langs/?username=lotyszm&layout=compact&theme=dark)
 
 <br>
 
